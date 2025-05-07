@@ -12,5 +12,5 @@
 
 for i in {1..3}
 do  
-    mkdir fol$i
+    rm -r fol$i
 done
